@@ -1,0 +1,17 @@
+.container {
+  margin-bottom: 5rem;
+  width: 100%;
+  height: 100%;
+}
+
+.swiper-slide {
+  font-size: 18px;
+  width: 100%;
+  height: 100%;
+}
+
+.position-absolute {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
