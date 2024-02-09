@@ -1,5 +1,3 @@
-import { Center } from "@mantine/core"
-
 import { TaskInput } from "../tasks/TaskInput"
 import { TaskList } from "../tasks/TaskList"
 import { Task } from "../tasks/types"
